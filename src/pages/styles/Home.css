@@ -1,0 +1,94 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+::selection {
+    background-color: white;
+    color: black;
+}
+
+/* ************************************* */
+
+.bg {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../../images/bg1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.bg h1 {
+    font-size: 36px;
+}
+.bg p {
+    font-size: 24px;
+}
+.blackArea {
+    background: black;
+    color: white;
+    padding: 30px;
+}
+
+
+.flex {
+    display: flex;
+}
+.cen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p50 {
+    width: 50%;
+}
+.textArea {
+    padding: 30px;
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    transition: 1s;
+}
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+.imgLogo{
+    width: 300px;
+}
+
+.right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnGroup {
+    display: flex;
+    gap: 30px;
+}
+
+.h11 {
+    font-size: 36px;
+}
+.p1 {
+    font-size: 18px;
+}
+
+p ul li a {
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+p ul li a:hover {
+    color: gray;
+}
