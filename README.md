@@ -1,8 +1,25 @@
-# React + Vite
+# TEAM WORK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello everyone, it's team work of students group. IT group
 
-Currently, two official plugins are available:
+TEAM:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Nozimjon ( leader )
+- Diyorbek
+- Asadbek
+- Farrux
+- Ruxsora
+
+TEACHER:
+
+- Umarov Ahmadjon
+
+# OTHER STATS
+
+Language: english
+
+Style: dark
+
+Color: neon green, black, white
+
+Updates: -
